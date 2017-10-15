@@ -1,4 +1,7 @@
 ## Gossip-and-Push-Sum-Simulator
+
+** Please see the report for detailed results
+
 We have implemented both the Gossip and Push-Sum algorithms for the below four topologies using Elixir Genserver processes.<br /><br />
 	Full Network <br />
 	2D Grid <br />
@@ -36,7 +39,7 @@ To run Gossip algorithm using Full network topology the command is as follows:<b
 
 ### The largest network built for each type of topology and algorithm:<br /><br />
                                                             
-                                                   Gossip Algorithm
+                                                    Gossip Algorithm
 #### Full Network:
 For nodes= 10000, total time for Full network = 530.562 s<br />
 
